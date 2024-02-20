@@ -210,7 +210,7 @@ a:focus, a:hover{
 	background: url(../images/i-top-nav-pay-detail.png) no-repeat;
 }
 .i-n-name{
-	
+
 }
 .i-n-back{
 	position: absolute;
@@ -285,11 +285,11 @@ a:focus, a:hover{
 }
 .i-b-rec-text:after,
 .i-b-sen-text:after{
-	content: ""; 
-	display: block; 
-	height: 0; 
-	clear: both; 
-	visibility: hidden;  
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
  }
 .i-b-rec-text img,
 .i-b-sen-text img{
@@ -366,7 +366,7 @@ a:focus, a:hover{
 	border-radius: 10px;
 	position: relative;
 }
-.i-b-rec-text div span.i-wx-pic, 
+.i-b-rec-text div span.i-wx-pic,
 .i-b-sen-text div span.i-wx-pic{
 	background: none;
 	border: none;
@@ -542,7 +542,7 @@ a:focus, a:hover{
 	background-image: url(../images/i-bottom-wechat2.png);
 }
 .i-bottom2{
-	
+
 }
 .i-bottom-alipay{
 	background: url(../images/i-bottom-alipay.png) no-repeat;
@@ -652,7 +652,7 @@ a:focus, a:hover{
 	width: 115px;
 }
 .a-u-name input{
-	width: 100px;
+	width: 200px;
 }
 .a-u-name p textarea{
 	width: 250px;
@@ -1366,7 +1366,7 @@ a:focus, a:hover{
 }
 
 .navbar-header{
-	
+
 }
 
 .navbar-top-links li a{
@@ -1582,7 +1582,7 @@ img{
 	color: #fff;
 	background:#F47571;
 }
-.nav>li.btn-agent>a:focus, 
+.nav>li.btn-agent>a:focus,
 .nav>li.btn-agent>a:hover{
 	color: #fff;
 	background:#F47571;
@@ -1639,7 +1639,7 @@ img{
 }
 
 .doc{
-	
+
 }
 .doc .doc-title{
 	font-size: 16px;
