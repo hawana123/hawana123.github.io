@@ -1870,3 +1870,9 @@ img{
 	}
 
 }
+
+.g_ads{
+	width: 50%;
+	height: 50px;
+	#background-color: blue;
+}
