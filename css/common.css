@@ -1866,7 +1866,7 @@ img{
 		left: auto;
 	}
 	.top-logo{
-		background: url(../images/logo.png?v=3);
+		#background: url(../images/logo.png?v=3);
 	}
 	.apps a i{
 		font-size: 4em;
