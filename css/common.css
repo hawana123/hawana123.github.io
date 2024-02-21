@@ -423,7 +423,7 @@ a:focus, a:hover{
 .i-b-sen-text div.i-b-pay span i{
 	width: 260px;
 	height: 72px;
-	background: url(../images/i-pay-icon-send.png) no-repeat;
+	#background: url(../images/i-pay-icon-send.png) no-repeat;
 	left: 34px;
 	top: 28px;
 }
@@ -1715,18 +1715,7 @@ img{
 	background-repeat: no-repeat;
 	background-position: center;
 }
-.fuck-taobao .step-1 {
-	height: 58px;
-	background-image: url(../images/step_1.png?v=1);
-}
-.fuck-taobao .step-2 {
-	height: 172px;
-	background-image: url(../images/ftios_step_2.png?v=1);
-}
-.fuck-taobao .step-3 {
-	height: 172px;
-	background-image: url(../images/ftand_step_2.png?v=1);
-}
+
 
 .i-b-rec-text div.redpacket,.i-b-sen-text div.redpacket{display:inline-block;margin-left:82px;vertical-align:top;}
 .i-b-sen-text div.redpacket{float:right;margin-left:0px;margin-right:24px;}
